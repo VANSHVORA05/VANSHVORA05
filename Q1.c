@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("name :- kush patel");
+    printf("name :- vansh vora");
     printf("\nage  :- 20");
     printf("\nclg  :- r&w ");
     return 0;
